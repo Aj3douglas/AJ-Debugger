@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.aj3douglas.ajdebugger.services
 
+import com.github.aj3douglas.ajdebugger.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 

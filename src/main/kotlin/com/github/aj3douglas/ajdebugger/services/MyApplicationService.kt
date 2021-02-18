@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.aj3douglas.ajdebugger.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.aj3douglas.ajdebugger.MyBundle
 
 class MyApplicationService {
 
